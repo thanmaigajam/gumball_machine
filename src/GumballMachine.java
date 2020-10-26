@@ -58,7 +58,6 @@ public class GumballMachine {
 
 	}
 
-//	abstract public void turnCrank();
 
 	public void turnCrank() {
 		if (!this.isTurnable) {
